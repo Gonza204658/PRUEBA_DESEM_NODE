@@ -4,7 +4,7 @@
 
 - **Coder:** Diego Fernando Gonzalez Henriquez
 - **Clan:** Node + Nest PM Abrahan Villa
-- **Repositorio GitHub:** https://github.com/Gonza204658/PRUEBA_DESEM_NODE
+- **Repositorio GitHub:** https://github.com/Gonza204658/PRUEBA_DESEM_NODE.git
 
 RiwiMediCare es una API REST para gestionar solicitudes de abastecimiento de medicamentos realizadas por clínicas y centros de atención. Permite administrar usuarios, clínicas, almacenes, medicamentos, inventarios, solicitudes y el historial de sus estados.
 
